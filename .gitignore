@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# raw/processed data is large and reproducible via src/data.py — don't commit it
+data/*
+!data/.gitkeep
+
+# never commit credentials
+kaggle.json
+*.env
+
+# OS/editor cruft
+.DS_Store
+.vscode/
