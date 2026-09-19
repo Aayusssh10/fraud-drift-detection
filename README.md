@@ -31,17 +31,17 @@ terms on its Kaggle page at least once.
 
 ## Project status
 
-Work in progress, built phase by phase:
+All phases complete:
 
 - [x] Phase 0 — Setup
-- [ ] Phase 1 — EDA
-- [ ] Phase 2 — Baseline models (time-based split)
-- [ ] Phase 3 — Concept drift analysis + drift-triggered retraining
-- [ ] Phase 4 — Cost-sensitive thresholding + SHAP explanations
-- [ ] Phase 5 — Streamlit demo dashboard
-- [ ] Phase 6 — Final writeup
+- [x] Phase 1 — EDA
+- [x] Phase 2 — Baseline models (time-based split)
+- [x] Phase 3 — Concept drift analysis + drift-triggered retraining
+- [x] Phase 4 — Cost-sensitive thresholding + SHAP explanations
+- [x] Phase 5 — Streamlit demo dashboard
+- [x] Phase 6 — Final writeup
 
-See [reports/final_report.md](reports/final_report.md) for the full writeup once later phases land.
+See [reports/final_report.md](reports/final_report.md) for the full writeup, with charts, findings, and limitations.
 
 ## Setup
 
