@@ -51,6 +51,12 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+Run the sanity tests for `src/` with:
+
+```bash
+pytest tests/
+```
+
 ## Structure
 
 - `src/` — reusable pipeline code (data loading, features, models, drift detection, cost
